@@ -1,9 +1,9 @@
 # app-dev
 My first repository
 
-#My favorite movie
+# My favorite movie
 
-#Jack the giant slayer
+# Jack the giant slayer
 
 **Director**: Bryan Singer
 **Starring**: Nicholas Hoult as Jack, Eleanor Tomlinson as Princess Isabelle, Ewan McGregor as Elmont, Stanley Tucci as Roderick, the scheming nobleman, Ian McShane as King Brahmwell, Bill Nighy and John Kassir as the voices of General Fallon
@@ -25,5 +25,5 @@ The movie received mixed reviews, with praise for its visuals and performances b
 
   ---
 
-  ![Jack the giant slayer]https://en.wikipedia.org/wiki/Jack_the_Giant_Slayer
+  ![Jack the giant slayer poster]https://en.wikipedia.org/wiki/Jack_the_Giant_Slayer
   
